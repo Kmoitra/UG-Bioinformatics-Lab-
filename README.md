@@ -1,4 +1,4 @@
-# Under Graduate Bioinformatics Laboratory Lessons
+# Undergraduate Bioinformatics Laboratory Lessons
 
 <b> A protocol for 2 student labs- using Google datasets and using CC to license a project </b>
 
