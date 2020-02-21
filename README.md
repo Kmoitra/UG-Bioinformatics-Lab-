@@ -4,15 +4,15 @@ A protocol for 2 student labs- using Google datasets and using CC to license a p
 
 Student learning objectives (What you will learn)
 
-Learn about Google Dataset search
+-Learn about Google Dataset search
 
-Learn how to read a scientific abstract
+-Learn how to read a scientific abstract
 
-Learn about scientific data sets and DAVID (Database for Annotation, Visualization and Integrated Discovery) tools to analyze this data
+-Learn about scientific data sets and DAVID (Database for Annotation, Visualization and Integrated Discovery) tools to analyze this data
 
-Learn about licensing data and the terms and conditions of different licenses Learn how to create reports
+-Learn about licensing data and the terms and conditions of different licenses Learn how to create reports
 
-Learn to think critically and write scientifically
+-Learn to think critically and write scientifically
 
 Student core competencies (What you will learn to do)
 
