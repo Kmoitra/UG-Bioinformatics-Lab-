@@ -2,7 +2,9 @@
 
 <b> A protocol for 2 student labs- using Google datasets and using CC to license a project </b>
 
+
 <b> Student learning objectives (What you will learn) </b>
+
 
 -Learn about Google Dataset search
 
@@ -13,6 +15,7 @@
 -Learn about licensing data and the terms and conditions of different licenses Learn how to create reports
 
 -Learn to think critically and write scientifically
+
 
 <b> Student core competencies (What you will learn to do) </b>
 
