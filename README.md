@@ -1,8 +1,8 @@
 # Under Graduate Bioinformatics Laboratory Lessons
 
-<b> A protocol for 2 student labs- using Google datasets and using CC to license a project ()
+<b> A protocol for 2 student labs- using Google datasets and using CC to license a project </b>
 
-Student learning objectives (What you will learn)
+<b> Student learning objectives (What you will learn) </b>
 
 -Learn about Google Dataset search
 
@@ -14,7 +14,7 @@ Student learning objectives (What you will learn)
 
 -Learn to think critically and write scientifically
 
-Student core competencies (What you will learn to do)
+<b> Student core competencies (What you will learn to do) </b>
 
 -Retrieve and download a dataset linked to a scientific article
 
