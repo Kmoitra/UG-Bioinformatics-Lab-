@@ -16,12 +16,12 @@ Student learning objectives (What you will learn)
 
 Student core competencies (What you will learn to do)
 
-Retrieve and download a dataset linked to a scientific article
+-Retrieve and download a dataset linked to a scientific article
 
-Analyze a data set (gene expression data) using the DAVID bioinformatics tools Read a scientific abstract and extract relevant information
+-Analyze a data set (gene expression data) using the DAVID bioinformatics tools Read a scientific abstract and extract relevant information
 
-Create and license a product using creative commons
+-Create and license a product using creative commons
 
-Develop critical thinking and team skills
+-Develop critical thinking and team skills
 
-Create and write reports
+-Create and write reports
