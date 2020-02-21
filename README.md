@@ -1,6 +1,6 @@
 # Under Graduate Bioinformatics Laboratory Lessons
 
-A protocol for 2 student labs- using Google datasets and using CC to license a project
+# A protocol for 2 student labs- using Google datasets and using CC to license a project
 
 Student learning objectives (What you will learn)
 
